@@ -36,7 +36,7 @@
 
 ✅ Linguagens: SQL | Python | DAX
 ✅ Ferramentas: Power BI | Excel
-✅ Banco de Dados: MySQL 
+✅ Banco de Dados: MySQL | SQL SSMS
 ✅ Machine Learning: Pandas | Scikit-Learn | Matplotlib
 
 📜 Certificações
